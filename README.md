@@ -9,7 +9,7 @@ Prueba Técnica – “Rover Mission Planner” (.NET + Angular)
 $13.696 pesos chilenos vale mi H.H. según mis cálculos de investigación de mercado.
 $13.696 x 24h = $328.704 me deberían pagar por mi trabajo, osea por la "idea genial" que buscan revisar cómo si los tipos fueran lectores de guiones de Hollywood en la Era Dorada, y recibirán muchas ustedes especuladores del BuscarTalentos, ideas que no sirven ni pa pagar a un pulento~
 
-# PRECIO FINAL: $$$342.000 en $mISIXCoins (Moneda que vale en pesos chilenos su peso en oro en CHILEAN MARS ODISSEY) --- UN JUEGO DE REALIDAD VIRTUAL DESARROLLADO EN Three.js + 3DSmax.
+# PRECIO FINAL: $$$342.000 en $mISIXCoins (Moneda que vale en pesos chilenos su peso en oro en CHILEAN MARS ODISSEY) --- UN JUEGO DE REALIDAD VIRTUAL DESARROLLADO EN Three.js + 3DSmax, Soportado por una plataforma construida con .NET Core en su Engine Backend y por Angular en su Engine Frontend.
 
 ###ATTE
 ###DanielA. Vega Caro
